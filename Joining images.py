@@ -35,7 +35,7 @@ def stackImages(scale, imgArray):
     return ver
 
 
-img = cv2.imread('Resources/lena.png')
+img = cv2.imread('Resources/BMW.jpg')
 imgGray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 
 imgStack = stackImages(0.5, ([img, imgGray, img], [img, img, img]))
