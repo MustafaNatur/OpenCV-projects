@@ -39,12 +39,12 @@ The xml markup language is designed for convenient encoding and reading of infor
 
 #### Steps
 
-* open xml file
-* open img or video file
-* set colour filter
-* set rectangle
+* set points coordinates on image (for example in Photoshop)
+* make matrix for input data
+* make matrix for output data
+* use warp perspective function (OpenCV func)
+* draw green lines and red points
 * show result
-* the Q button stops the video
 
 #### Results
 
