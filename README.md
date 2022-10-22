@@ -12,13 +12,13 @@ This is really big rep with OpenCV projects
 * [Image stack](https://github.com/MustafaNatur/OpenCV-projects#Image-stack)
 * [Images & video reading](https://github.com/MustafaNatur/OpenCV-projects#Images-&-video-reading)
 
-# Face detection video
+# Face detection
 
-## About
+###### About
 This project detect faces in images as well as videos using Haar Cascades in OpenCV and Python.
 The xml markup language is designed for convenient encoding and reading of information in a machine and manual way. The file structure and its parameters are specified using tags, attributes and preprocessors
 
-## Steps
+###### Steps
 
 * open xml file
 * open img or video file
@@ -27,6 +27,6 @@ The xml markup language is designed for convenient encoding and reading of infor
 * show result
 * the Q button stops the video
 
-## Results
+###### Results
 
 ![animated_demo_screenshot](/Materials/Face_detection_video.gif)
