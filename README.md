@@ -2,7 +2,7 @@
 This is really big rep with OpenCV projects
 
 # Main projects
-* [Face detection video](https://github.com/MustafaNatur/OpenCV-projects#Face-detection-video)
+* [Face detection](https://github.com/MustafaNatur/OpenCV-projects#Face-detection)
 * [Warp perspective](https://github.com/MustafaNatur/OpenCV-projects#Warp-perspective)
 * [Shapes detection](https://github.com/MustafaNatur/OpenCV-projects#Shapes-detection)
 * [AR drawing](https://github.com/MustafaNatur/OpenCV-projects#AR-drawing)
