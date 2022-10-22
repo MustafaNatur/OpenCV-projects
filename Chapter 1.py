@@ -2,7 +2,7 @@ import cv2  #открыли нужную билиотеку
 
 print('package important')#
 
-img_darii = cv2.imread('Resources/darii.jpg') # открываем кортинку и указываем путь к ней
+img_darii = cv2.imread('Resources/1.jpg') # открываем кортинку и указываем путь к ней
 
 imgGray = cv2.cvtColor(img_darii, cv2.COLOR_BGR2GRAY) # Изменение цветовой палитры картинки
 
