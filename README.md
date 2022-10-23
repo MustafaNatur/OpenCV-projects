@@ -8,9 +8,14 @@ This is really big rep with OpenCV projects
 * [AR drawing](https://github.com/MustafaNatur/OpenCV-projects#AR-drawing)
 
 # Learning projects
-* [Cropping image](https://github.com/MustafaNatur/OpenCV-projects#Cropping-image)
-* [Image stack](https://github.com/MustafaNatur/OpenCV-projects#Image-stack)
-* [Images & video reading](https://github.com/MustafaNatur/OpenCV-projects#Images-&-video-reading)
+* [Cropping image](https://github.com/MustafaNatur/OpenCV-projects/blob/main/Cropping%20img.py)
+* [Image stack](https://github.com/MustafaNatur/OpenCV-projects/blob/main/Joining%20images.py)
+* [Images reading](https://github.com/MustafaNatur/OpenCV-projects/blob/main/Imges_read.py)
+* [Video reading](https://github.com/MustafaNatur/OpenCV-projects/blob/main/Video_read.py)
+* [Cropping image](https://github.com/MustafaNatur/OpenCV-projects/blob/main/Cropping%20img.py)
+* [Image operations](https://github.com/MustafaNatur/OpenCV-projects/blob/main/Image%20operations.py)
+* [Shapes](https://github.com/MustafaNatur/OpenCV-projects/blob/main/Shapes.py)
+* [Web camera read](https://github.com/MustafaNatur/OpenCV-projects/blob/main/Webcam_read.py)
 
 # Face detection
 
