@@ -34,10 +34,9 @@ The xml markup language is designed for convenient encoding and reading of infor
 
 Sometimes the images or videos captured may not be выровнено для нас to view enough information from the images or videos, in such cases, it is necessary to align such images or videos to obtain better insights from the images or videos and in order to be able to change the perspective of the images or videos to получать more useful information from the images or videos, we make use of a function called getPerspectiveTransform() function and the changed perspective of the images or videos must be fit to the original images or videos and this can be done using a function called warpPerspective() function in OpenCV.
 
-'''
-warpPerspective(source_image, result_image, outputimage_size)
-'''
-
+```
+warpPerspective(input_image, output_image, outputimage_size)
+```
 #### Steps
 
 * set points coordinates on image (for example in Photoshop)
