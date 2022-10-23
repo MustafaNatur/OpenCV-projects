@@ -22,7 +22,7 @@ This is really big rep with OpenCV projects
 This project detect faces in images as well as videos using Haar Cascades in OpenCV and Python.
 The xml markup language is designed for convenient encoding and reading of information in a machine and manual way. The file structure and its parameters are specified using tags, attributes and preprocessors
 
-#### Steps
+### Steps
 
 * open xml file
 * open img or video file
@@ -31,7 +31,7 @@ The xml markup language is designed for convenient encoding and reading of infor
 * show result
 * the Q button stops the video
 
-#### Results
+### Results
 
 ![animated_demo_screenshot](/Materials/Face_detection_video.gif)
 
@@ -42,7 +42,7 @@ Sometimes the images or videos captured may not be выровнено для н�
 ```
 warpPerspective(input_image, output_image, outputimage_size)
 ```
-#### Steps
+### Steps
 
 * set points coordinates on image (for example in Photoshop)
 * make matrix for input data
@@ -51,7 +51,7 @@ warpPerspective(input_image, output_image, outputimage_size)
 * draw green lines and red points
 * show result
 
-#### Results
+### Results
 
 ![animated_demo_screenshot](/Materials/Warp_perspective.jpg)
 
@@ -59,7 +59,7 @@ warpPerspective(input_image, output_image, outputimage_size)
 
 In this project, I taught how to define the contours of shapes using OpenCV functions. After scanning the contours and vertices, it is determined what kind of shape is in the image. Filters for images are also implemented
 
-#### Steps
+### Steps
 
 * Use image with blur, grey colour 
  ```
@@ -111,7 +111,7 @@ def getContours:
                         (0, 0, 0), 2)
 ```
 
-#### Result
+### Result
 
 ![animated_demo_screenshot](/Materials/Shapes_detection.jpg)
 
@@ -120,5 +120,5 @@ def getContours:
 
 In this project, the video is processed and the color in the frame is searched. Then, in place of this color, a dot of this color is placed. This way you can draw directly on the video stream. For this project, reading information from a webcam was used. (There are bugs in the work due to the quality of the image from the camera)
 
-#### Result
+### Result
 ![animated_demo_screenshot](/Materials/Drawing.gif)
