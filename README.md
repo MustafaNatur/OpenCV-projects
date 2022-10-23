@@ -49,3 +49,19 @@ warpPerspective(input_image, output_image, outputimage_size)
 #### Results
 
 ![animated_demo_screenshot](/Materials/Warp_perspective.jpg)
+
+# Shapes detection
+
+In this project, I taught how to define the contours of shapes using OpenCV functions. After scanning the contours and vertices, it is determined what kind of shape is in the image. Filters for images are also implemented
+
+#### Steps
+
+* Use image with blur, grey colour 
+* make stack with our images
+* find contours
+* draw lines and points
+* print shapes's names
+
+#### Result
+
+![animated_demo_screenshot](/Materials/Shapes_detection.jpg)
