@@ -34,8 +34,6 @@ for (x,y,w,h) in faces:
 cv2.imshow('Result', img)
 print(f'{n} people on the photo')
 
-
-
 #delay
 cv2.waitKey(0)
 
