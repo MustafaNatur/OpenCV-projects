@@ -17,7 +17,7 @@ This is really big rep with OpenCV projects
 * [Shapes](https://github.com/MustafaNatur/OpenCV-projects/blob/main/Shapes.py)
 * [Web camera read](https://github.com/MustafaNatur/OpenCV-projects/blob/main/Webcam_read.py)
 
-# Face detection
+# Face detection [link](https://github.com/MustafaNatur/OpenCV-projects/blob/main/Face_detection_video.py)
 
 This project detect faces in images as well as videos using Haar Cascades in OpenCV and Python.
 The xml markup language is designed for convenient encoding and reading of information in a machine and manual way. The file structure and its parameters are specified using tags, attributes and preprocessors
@@ -55,7 +55,7 @@ warpPerspective(input_image, output_image, outputimage_size)
 
 ![animated_demo_screenshot](/Materials/Warp_perspective.jpg)
 
-# Shapes detection
+# Shapes detection [link](https://github.com/MustafaNatur/OpenCV-projects/blob/main/Shapes%20detection.py)
 
 In this project, I taught how to define the contours of shapes using OpenCV functions. After scanning the contours and vertices, it is determined what kind of shape is in the image. Filters for images are also implemented
 
@@ -116,7 +116,7 @@ def getContours:
 ![animated_demo_screenshot](/Materials/Shapes_detection.jpg)
 
 
-# AR drawing
+# AR drawing [link](https://github.com/MustafaNatur/OpenCV-projects/blob/main/OpenCV%20paint.py)
 
 In this project, the video is processed and the color in the frame is searched. Then, in place of this color, a dot of this color is placed. This way you can draw directly on the video stream. For this project, reading information from a webcam was used. (There are bugs in the work due to the quality of the image from the camera)
 
