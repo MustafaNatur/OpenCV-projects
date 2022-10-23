@@ -116,4 +116,4 @@ def getContours:
 In this project, the video is processed and the color in the frame is searched. Then, in place of this color, a dot of this color is placed. This way you can draw directly on the video stream. For this project, reading information from a webcam was used. (There are bugs in the work due to the quality of the image from the camera)
 
 #### Result
-![animated_demo_screenshot](/Materials/Drawing.mp4)
+![animated_demo_screenshot](/Materials/Drawing.gif)
